@@ -28,3 +28,21 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+
+I am Ali Alquraan and this repository is for my AI.SPIRE pre-Work Project and assignments
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/alialquraan-prework.git
+cd alialquraan-prework
+Save the file when done.
+
+### 4. Commit each change separately
+
+Stage and commit `docs/git-setup.md` first:
+
+```bash
+git add docs/git-setup.md
+git commit -m "Add docs/git-setup.md with configured user identity"
